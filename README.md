@@ -1,6 +1,6 @@
 # 📊 Proyecto 10. Priorización de Hipótesis y Test A/B
 
-En el presente repositorio una tienda online busca incrementar sus ingresos.  Se realizó un análisis para que presentarle al equipo de marketing, se definieron varias hipótesis y se ejecutó una **prueba A/B** para evaluar su impacto en métricas clave como conversión e ingresos.
+En el presente repositorio una tienda online busca incrementar sus ingresos.  Se realizó un análisis para presentarle al equipo de marketing, se definieron varias hipótesis y se ejecutó una **prueba A/B** para evaluar su impacto en métricas clave como conversión e ingresos.
 
 ---
 
@@ -59,7 +59,8 @@ El filtrado permitió obtener conclusiones más confiables.
 ---
 
 ## ✅ Conclusión final
-📌 Decisión: Parar la prueba y declarar al Grupo B como líder**
+📌 Decisión: Parar la prueba y declarar al Grupo B como líder
+
 **Justificación:**
 - Mejora clara y estadísticamente significativa en la conversión
 - El tamaño promedio del pedido no se ve afectado negativamente
